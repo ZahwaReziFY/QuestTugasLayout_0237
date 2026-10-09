@@ -38,3 +38,11 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                 fontWeight = FontWeight.Bold,
                 modifier = Modifier.padding(bottom = 16.dp)
             )
+
+            // Card 1 (Bambang Sumantri - Cursive Font, Tanpa No HP)
+            DetailCard(
+                nama = stringResource(id = R.string.nama_1),
+                alamat = stringResource(id = R.string.alamat_1),
+                backgroundColor = colorResource(id = R.color.gray_card),
+                fontFamily = FontFamily.Cursive
+            )
