@@ -54,3 +54,11 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                 alamat = stringResource(id = R.string.alamat_2),
                 backgroundColor = colorResource(id = R.color.purple_card)
             )
+
+            // Card 3 (Zhilal Fadhilah)
+            DetailCard(
+                nama = stringResource(id = R.string.nama_3),
+                noHp = stringResource(id = R.string.nohp_3),
+                alamat = stringResource(id = R.string.alamat_3),
+                backgroundColor = colorResource(id = R.color.blue_card)
+            )
