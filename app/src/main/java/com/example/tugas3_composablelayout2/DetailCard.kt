@@ -43,3 +43,9 @@ fun DetailCard(
             verticalAlignment = Alignment.CenterVertically,
             horizontalArrangement = Arrangement.SpaceBetween
         ) {
+            // Logo UMY Kiri
+            Image(
+                painter = painterResource(id = R.drawable.logoumy),
+                contentDescription = null,
+                modifier = Modifier.size(60.dp)
+            )
