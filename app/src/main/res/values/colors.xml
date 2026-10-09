@@ -2,3 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Latar Belakang Kartu -->
+    <color name="gray_card">#5B5B5B</color>
+    <color name="purple_card">#6A43C9</color>
+    <color name="blue_card">#0000FF</color>
+    <color name="green_card">#007A00</color>
