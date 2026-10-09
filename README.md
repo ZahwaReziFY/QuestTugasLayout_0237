@@ -8,10 +8,8 @@ Nama : Zahwa Rezi Fadhilah Yasyfi'
 Nim : 20240140237
 
 ## 🎨 Tampilan Aplikasi
+<img width="418" height="807" alt="image" src="https://github.com/user-attachments/assets/ed3f2060-d35b-4636-a8e7-a7cd46eb94fe" />
 
-<align="center">
-  <img src="https://private-user-images.githubusercontent.com/201502443/669916795-4d44e467-74d5-4e6c-9ff4-80b5f7347dc8.png" alt="Tampilan Aplikasi" width="350"/>
-</align>
 
 ---
 
@@ -46,6 +44,3 @@ app/src/main/
     └── values/
         ├── colors.xml         # Definisi warna aplikasi & kartu[cite: 1]
         └── strings.xml        # Definisi string teks[cite: 1]
-
-Dokumentasi : 
-<img width="406" height="797" alt="image" src="https://github.com/user-attachments/assets/4d44e467-74d5-4e6c-9ff4-80b5f7347dc8" />
