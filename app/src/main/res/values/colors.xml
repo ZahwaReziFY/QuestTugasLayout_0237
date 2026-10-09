@@ -8,3 +8,8 @@
     <color name="purple_card">#6A43C9</color>
     <color name="blue_card">#0000FF</color>
     <color name="green_card">#007A00</color>
+
+    <!-- Teks Khusus -->
+    <color name="yellow_text">#FFEB3B</color>
+    <color name="cyan_text">#00E5FF</color>
+</resources>
