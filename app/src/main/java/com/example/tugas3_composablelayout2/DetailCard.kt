@@ -79,3 +79,13 @@ fun DetailCard(
                     color = colorResource(id = R.color.yellow_text)
                 )
             }
+
+            // Logo UMY Kanan
+            Image(
+                painter = painterResource(id = R.drawable.logoumy),
+                contentDescription = null,
+                modifier = Modifier.size(60.dp)
+            )
+        }
+    }
+}
