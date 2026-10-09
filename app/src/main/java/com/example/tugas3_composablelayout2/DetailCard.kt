@@ -64,3 +64,11 @@ fun DetailCard(
                     fontFamily = fontFamily,
                     color = colorResource(id = R.color.white)
                 )
+
+                if (noHp != null) {
+                    Text(
+                        text = noHp,
+                        fontSize = 14.sp,
+                        color = colorResource(id = R.color.cyan_text)
+                    )
+                }
